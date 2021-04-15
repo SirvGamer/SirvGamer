@@ -4,7 +4,7 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
   E-Mail: support@mc.dezzmc.de<br>
-  Discord: SirvGamer#6173
+  Discord: SirvGamer#6173<br>
 <a href="https://www.youtube.com/c/SirvGamer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="SirvGamers Channel" height="30" width="40" /></a>
 </p>
 
